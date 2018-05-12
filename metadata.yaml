@@ -1,0 +1,42 @@
+_repo: Sketches-of-Travel-in-Normandy-and-Maine_24818
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Hutton, William Holden
+    alias: Hutton, W. H. (William Holden)
+    birthdate: 1860
+    deathdate: 1930
+    gutenberg_agent_id: '25290'
+    url: http://www.gutenberg.org/2009/agents/25290
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Freeman, Edward A. (Edward Augustus)
+    aliases:
+    - Freeman, Edward Augustus
+    - Freeman, E. A. (Edward Augustus)
+    birthdate: 1823
+    deathdate: 1892
+    gutenberg_agent_id: '526'
+    url: http://www.gutenberg.org/2009/agents/526
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Augustus_Freeman
+description: ''
+gutenberg_bookshelf: France
+gutenberg_issued: '2008-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24818'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Architecture -- France -- Maine'
+- !lcsh 'Maine (France) -- Description and travel'
+- !lcsh 'Architecture -- France -- Normandy'
+- !lcc 'DC'
+- !lcsh 'Normandy (France) -- Description and travel'
+title: Sketches of Travel in Normandy and Maine
+url: http://www.gutenberg.org/ebooks/24818
